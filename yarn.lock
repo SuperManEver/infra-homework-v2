@@ -30,6 +30,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"task-2@workspace:tasks/task-2":
+  version: 0.0.0-use.local
+  resolution: "task-2@workspace:tasks/task-2"
+  languageName: unknown
+  linkType: soft
+
 "yaml@npm:^2.8.2":
   version: 2.8.2
   resolution: "yaml@npm:2.8.2"
